@@ -1,0 +1,12 @@
+#resume-box{
+    height: 200px;
+    width: auto;
+    border: 2px solid black;
+    display: flex;
+    text-decoration: none;
+    
+}
+#resume-list{
+    text-align: center;
+    text-decoration: none;
+}
