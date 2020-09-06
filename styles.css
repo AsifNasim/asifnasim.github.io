@@ -129,7 +129,7 @@ section:nth-child(2n+1){
     width: 11rem;
     height: 2.2rem;
     background-color: lightgray;
-    border-radius: 1rem;
+    border-radius: 1.5rem;
     border: 2px black solid;
     margin: 25px;
     overflow: hidden;
@@ -184,6 +184,9 @@ section:nth-child(2n+1){
 .mb-light-purple{
     background-color: purple;
 }
+
+/* about section */
+
 #about{
     height: auto;
     width: 100%;
